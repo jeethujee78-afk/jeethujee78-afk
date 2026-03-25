@@ -39,7 +39,7 @@
 ---
 
 ## 🐍 Contribution Graph
-![snake gif](https://github.com/jeethujee78-afk/jeethujee78-afk/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jeethujee78-afk/jeethujee78-afk/blob/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
