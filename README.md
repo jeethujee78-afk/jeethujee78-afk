@@ -38,5 +38,3 @@
 
 ---
 
-## 📫 Contact
-- LinkedIn: (add when ready)
