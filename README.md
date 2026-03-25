@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Jeethu</h1>
-<h3 align="center">Cloud Engineer • DevOps • Distributed Systems</h3>
+<h3 align="center">Cloud Engineer • DevOps • Building Scalable AWS Systems</h3>
 
 ---
 
