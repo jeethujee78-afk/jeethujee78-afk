@@ -8,7 +8,7 @@
 ---
 
 ## 🌈 About Me
-- 🔭 Currently learning **AWS & DevOps**
+- 🔭 Currently **AWS & DevOps**
 - 🌱 Building **CI/CD pipelines**
 - 💡 Goal: Become **AWS Solutions Architect**
 - ⚡ I break things and rebuild them better 😎
