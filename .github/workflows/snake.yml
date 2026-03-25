@@ -13,13 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: jeethujee78-afk
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push snake to repo
+      - name: Commit snake
         uses: EndBug/add-and-commit@v9
         with:
           add: 'dist/github-contribution-grid-snake.svg'
